@@ -1,0 +1,15 @@
+<svg width="200" height="50" viewBox="0 0 200 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="200" y2="50" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#43e97b"/>
+      <stop offset="1" stop-color="#38f9d7"/>
+    </linearGradient>
+  </defs>
+  <rect rx="25" width="200" height="50" fill="url(#bg)"/>
+  <g>
+    <circle cx="30" cy="25" r="18" fill="#fff" opacity="0.13"/>
+    <text x="23" y="33" font-size="24" font-weight="bold" fill="#fff" font-family="Segoe UI,Arial,sans-serif">🏆</text>
+  </g>
+  <text x="60" y="23" font-size="15" font-weight="bold" fill="#fff" font-family="Segoe UI,Arial,sans-serif">GitHub Champion</text>
+  <text x="60" y="43" font-size="13" fill="#fff" font-family="Segoe UI,Arial,sans-serif">365-day Streak</text>
+</svg>
